@@ -55,6 +55,10 @@ Go to this URL and it will be there running on your local host in port 7860!
 http://127.0.0.1:7860
 
 ## Model
-There is a pretrained model for you at out-fever/ckpt.pt.
+There is a pretrained model for you at out-fever/ckpt.pt. If you wanna retrain, there are resources. Figure it out idk
 
-# Enjoy!
+## Acknowledgements
+**NanoGPT** https://github.com/karpathy/nanoGPT (MIT License)
+**Gradio** https://github.com/gradio-app/gradio (Apache 2.0 License)
+
+##uh yeah thats it have fun
