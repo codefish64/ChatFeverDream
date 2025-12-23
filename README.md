@@ -1,5 +1,5 @@
 # ChatFeverDream
-ChatFeverDream - a delightfully deranged AI that is trained off of ~100mb of pure Reddit copypasta and shitpost extract.
+ChatFeverDream - a delightfully deranged AI that is trained off of ~100MB of pure Reddit copypasta and shitpost extract.
 
 ## About:
 - Nearly unintelligible
