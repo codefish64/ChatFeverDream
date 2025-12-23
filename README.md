@@ -31,7 +31,7 @@ ChatFeverDream - a delightfully deranged AI that is trained off of ~100mb of pur
 ## Install:
 ### clone the repo
 ```bash
-git clone https://github.com/yourusername/ChatFeverDream.git
+git clone https://github.com/codefish64/ChatFeverDream.git
 cd ChatFeverDream
 ```
 ### create ur venv
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```
 ### run it!
 ```bash
-python /Users/Lazertron/nanoGPT/chatFeverDream.py
+python chatFeverDream.py
 ```
 Go to this URL and it will be there running on your local host in port 7860!
 http://127.0.0.1:7860
