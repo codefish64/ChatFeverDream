@@ -61,4 +61,4 @@ There is a pretrained model for you at out-fever/ckpt.pt. If you wanna retrain, 
 **NanoGPT** https://github.com/karpathy/nanoGPT (MIT License)
 **Gradio** https://github.com/gradio-app/gradio (Apache 2.0 License)
 
-##uh yeah thats it have fun
+## uh yeah thats it have fun
